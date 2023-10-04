@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sqrt_Calculator", "Sqrt_Calculator\Sqrt_Calculator.csproj", "{DE968EE8-B706-49F6-8F22-CE7A9AAC42C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator_Tests", "Calculator_Tests\Calculator_Tests.csproj", "{368E9A0A-090F-4FDF-9986-A98A8BD2ECBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE968EE8-B706-49F6-8F22-CE7A9AAC42C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE968EE8-B706-49F6-8F22-CE7A9AAC42C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE968EE8-B706-49F6-8F22-CE7A9AAC42C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE968EE8-B706-49F6-8F22-CE7A9AAC42C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{368E9A0A-090F-4FDF-9986-A98A8BD2ECBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{368E9A0A-090F-4FDF-9986-A98A8BD2ECBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{368E9A0A-090F-4FDF-9986-A98A8BD2ECBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{368E9A0A-090F-4FDF-9986-A98A8BD2ECBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
